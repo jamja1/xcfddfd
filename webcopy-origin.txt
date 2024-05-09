@@ -1,0 +1,120 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\npm\bootstrap@5.3.0-alpha1\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\ajax\libs\jquery\2.1.3\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\font-awesome\4.5.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\font-awesome\4.5.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?v=4.5.0
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\font-awesome\4.5.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.svg?v=4.5.0
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\font-awesome\4.5.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.ttf?v=4.5.0
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\font-awesome\4.5.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff2?v=4.5.0
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\font-awesome\4.5.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff?v=4.5.0
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\font-awesome\4.5.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\bootstrap\4.5.2\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://theman5.z19.web.core.windows.net/Mac0DCA0help0secure067/-EBq-current.png
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\Mac0DCA0help0secure067\-EBq-current.png
+Content Type: image/png
+
+Uri: https://theman5.z19.web.core.windows.net/Mac0DCA0help0secure067/apple.png
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\Mac0DCA0help0secure067\apple.png
+Content Type: image/png
+
+Uri: https://theman5.z19.web.core.windows.net/Mac0DCA0help0secure067/bg.png
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\Mac0DCA0help0secure067\bg.png
+Content Type: image/png
+
+Uri: https://theman5.z19.web.core.windows.net/Mac0DCA0help0secure067/cross.png
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\Mac0DCA0help0secure067\cross.png
+Content Type: image/png
+
+Uri: https://theman5.z19.web.core.windows.net/Mac0DCA0help0secure067/custom.js
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\Mac0DCA0help0secure067\custom.js
+Content Type: text/javascript
+
+Uri: https://theman5.z19.web.core.windows.net/Mac0DCA0help0secure067/index.html
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\Mac0DCA0help0secure067\index.html
+Content Type: text/html
+
+Uri: https://theman5.z19.web.core.windows.net/Mac0DCA0help0secure067/kxFy-clip.png
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\Mac0DCA0help0secure067\kxFy-clip.png
+Content Type: image/png
+
+Uri: https://theman5.z19.web.core.windows.net/Mac0DCA0help0secure067/main.js
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\Mac0DCA0help0secure067\main.js
+Content Type: text/javascript
+
+Uri: https://theman5.z19.web.core.windows.net/Mac0DCA0help0secure067/minimize.jpeg
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\Mac0DCA0help0secure067\minimize.jpeg
+Content Type: image/jpeg
+
+Uri: https://theman5.z19.web.core.windows.net/Mac0DCA0help0secure067/nOxp-sett.png
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\Mac0DCA0help0secure067\nOxp-sett.png
+Content Type: image/png
+
+Uri: https://theman5.z19.web.core.windows.net/Mac0DCA0help0secure067/qsbs-firewall.png
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\Mac0DCA0help0secure067\qsbs-firewall.png
+Content Type: image/png
+
+Uri: https://theman5.z19.web.core.windows.net/Mac0DCA0help0secure067/s-S4-acc.png
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\Mac0DCA0help0secure067\s-S4-acc.png
+Content Type: image/png
+
+Uri: https://theman5.z19.web.core.windows.net/Mac0DCA0help0secure067/scripts.js
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\Mac0DCA0help0secure067\scripts.js
+Content Type: text/javascript
+
+Uri: https://theman5.z19.web.core.windows.net/Mac0DCA0help0secure067/styles.css
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\Mac0DCA0help0secure067\styles.css
+Content Type: text/css
+
+Uri: https://theman5.z19.web.core.windows.net/Mac0DCA0help0secure067/uZbx-si.png
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\Mac0DCA0help0secure067\uZbx-si.png
+Content Type: image/png
+
+Uri: https://theman5.z19.web.core.windows.net/Mac0DCA0help0secure067/virus-images.png
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\Mac0DCA0help0secure067\virus-images.png
+Content Type: image/png
+
+Uri: https://theman5.z19.web.core.windows.net/Mac0DCA0help0secure067/Z5BR-network.png
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\Mac0DCA0help0secure067\Z5BR-network.png
+Content Type: image/png
+
+Uri: https://theman5.z19.web.core.windows.net/Mac0DCA0help0secure067/_Fm7-alert.mp3
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\Mac0DCA0help0secure067\_Fm7-alert.mp3
+Content Type: audio/mpeg
+
+Uri: https://tools.luckyorange.com/core/lo.js?site-id=2493d6ba
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\core\lo.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-164919641-1
+File Name: C:\Downloaded Web Sites\theman5.z19.web.core.windows.net\gtag\js-1
+Content Type: application/javascript
+
